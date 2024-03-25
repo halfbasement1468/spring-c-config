@@ -1,0 +1,6 @@
+token:
+  expiration_time: 8640100000 #하루짜리 토큰 60x60x24x1000
+  secret: my_token_dev
+
+gateway:
+  ip: 192.168.0.8
